@@ -1,6 +1,6 @@
 # RGBLED
 Python RGB GUI
-Controls voltage output of GPIO pins to manipulate the color of RGB LED Diode
+controls voltage output of GPIO pins to manipulate the color of RGB LED Diode
 
 [RasberryPi only]
 
