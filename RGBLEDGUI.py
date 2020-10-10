@@ -17,7 +17,7 @@ class MyGUI:
         self.my_pwm3.start(0)
         self.myWindow = Tk()
         self.myWindow.geometry("1920x1080+0+0")
-        self.myWindow.title("CMPT")
+        self.myWindow.title("RGB LED GUI")
         
         self.var1 = DoubleVar()
         self.var2 = DoubleVar()
